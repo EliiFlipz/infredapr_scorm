@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1789177134336</value>
+    <value>1789439471943</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -171,7 +171,7 @@ $exe.iDeviceToggler.init={};
           <htmlView><![CDATA[<div class="exe-text-template">
     <h1 style="text-align: center;"><strong>Bienvenidos al curso</strong></h1>
 <h2 style="text-align: center;"><strong>Informática y Redes de Aprendizaje</strong></h2>
-<p><strong><img src="asset://75fa792d-cac4-826d-bce8-bf362fa47801.jpg" alt="" width="509" height="411" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p>
+<p><strong><img src="{{context_path}}/content/resources/inf.jpg" alt="" width="509" height="411" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p>
 <h3 style="text-align: center;"><strong>Tutora: Mgtr. Elizabeth Buján</strong></h3>
 <p><strong></strong><br /></p>
 <p>En este curso exploramos los siguientes temas:</p>
@@ -183,7 +183,7 @@ $exe.iDeviceToggler.init={};
 <li>Módulo V - Diseño de Presentaciones.</li>
 </ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mtru8s24-72wzyzb7r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><strong>Bienvenidos al curso</strong></h1>\n<h2 style=\"text-align: center;\"><strong>Informática y Redes de Aprendizaje</strong></h2>\n<p><strong><img src=\"asset://75fa792d-cac4-826d-bce8-bf362fa47801.jpg\" alt=\"\" width=\"509\" height=\"411\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></p>\n<h3 style=\"text-align: center;\"><strong>Tutora: Mgtr. Elizabeth Buján</strong></h3>\n<p><strong></strong><br /></p>\n<p>En este curso exploramos los siguientes temas:</p>\n<ul>\n<li><strong>Módulo I - Introducción a la Informática</strong>.</li>\n<li>Módulo II - Internet y Redes de Aprendizaje.</li>\n<li>Módulo III - Procesador de Texto.</li>\n<li>Módulo IV - Hojas de Cálculo.</li>\n<li>Módulo V - Diseño de Presentaciones.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mtru8s24-72wzyzb7r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><strong>Bienvenidos al curso</strong></h1>\n<h2 style=\"text-align: center;\"><strong>Informática y Redes de Aprendizaje</strong></h2>\n<p><strong><img src=\"{{context_path}}/content/resources/inf.jpg\" alt=\"\" width=\"509\" height=\"411\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></p>\n<h3 style=\"text-align: center;\"><strong>Tutora: Mgtr. Elizabeth Buján</strong></h3>\n<p><strong></strong><br /></p>\n<p>En este curso exploramos los siguientes temas:</p>\n<ul>\n<li><strong>Módulo I - Introducción a la Informática</strong>.</li>\n<li>Módulo II - Internet y Redes de Aprendizaje.</li>\n<li>Módulo III - Procesador de Texto.</li>\n<li>Módulo IV - Hojas de Cálculo.</li>\n<li>Módulo V - Diseño de Presentaciones.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -336,7 +336,7 @@ $exe.iDeviceToggler.init={};
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <h1 style="text-align: center;">Módulo I</h1>
-<p style="text-align: center;"><img src="asset://38da3e83-c7c0-d749-180f-96ff5a7da0f9.jpg" alt="" width="604" height="332" /></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/inf1.jpg" alt="" width="604" height="332" /></p>
 <h1 style="text-align: center;">"Introducción a la Informática"</h1>
 <p>Aquí exploraremos:</p>
 <ul>
@@ -358,7 +358,7 @@ $exe.iDeviceToggler.init={};
 </li>
 </ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mtru8s25-zowe1jtf9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\">Módulo I</h1>\n<p style=\"text-align: center;\"><img src=\"asset://38da3e83-c7c0-d749-180f-96ff5a7da0f9.jpg\" alt=\"\" width=\"604\" height=\"332\" /></p>\n<h1 style=\"text-align: center;\">\"Introducción a la Informática\"</h1>\n<p>Aquí exploraremos:</p>\n<ul>\n<li>Informática y Computador.</li>\n<li>Historia del Computador.</li>\n<li>Componentes del Computador.\n<ul>\n<li>Dispositivos de Entrada.</li>\n<li>Dispositivos de Salida.</li>\n</ul>\n</li>\n<li>Usos del Computador.</li>\n<li>Seguridad Informática.\n<ul>\n<li>Manipulación del Computador.</li>\n<li>Amenazas al Sistema/Información.</li>\n<li>Virus.</li>\n</ul>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mtru8s25-zowe1jtf9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\">Módulo I</h1>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/inf1.jpg\" alt=\"\" width=\"604\" height=\"332\" /></p>\n<h1 style=\"text-align: center;\">\"Introducción a la Informática\"</h1>\n<p>Aquí exploraremos:</p>\n<ul>\n<li>Informática y Computador.</li>\n<li>Historia del Computador.</li>\n<li>Componentes del Computador.\n<ul>\n<li>Dispositivos de Entrada.</li>\n<li>Dispositivos de Salida.</li>\n</ul>\n</li>\n<li>Usos del Computador.</li>\n<li>Seguridad Informática.\n<ul>\n<li>Manipulación del Computador.</li>\n<li>Amenazas al Sistema/Información.</li>\n<li>Virus.</li>\n</ul>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -464,13 +464,13 @@ $exe.iDeviceToggler.init={};
 <p>Todas estas tareas y actividades se realizan a través de dispositivos que, comercialmente, tienen distintos nombres: tablets, teléfonos móviles, laptops, entre otros. Estos dispositivos son una forma de <strong>computadora</strong>.</p>
 <p><br /></p>
 <h1><strong>Computadora</strong></h1>
-<p><img src="asset://56a7a9b4-aced-f843-7462-b833b8393b16.jpg" width="493" height="490" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img src="{{context_path}}/content/resources/MCj03825840000[1].jpg" width="493" height="490" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
 <p>Una definición formal de computadora podría ser "máquina electrónica que recibe y convierte información física en digital". Por esto, todos los dispositivos mostrados anteriormente son una forma de computadora. </p>
 <p>Actualmente, dispositivos como lavadoras, refrigeradores e incluso vehículos, cuentan con computadoras acopladas, capaces de gestionar procesos, complementar y facilitar tareas al usuario.</p>
-<p><img src="asset://e69b769d-ab49-1828-e306-e0c538547ecb.jpg" width="569" height="353" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img src="{{context_path}}/content/resources/images (6).jpg" width="569" height="353" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
 <p><span style="font-size: 19.2px;" title="">Estos y otros términos los estaremos revisando más a profundidad en las diapositivas que se encuentran haciendo clic <a href="exe-node:page-mtru8s24-zzahoxhcj">aquí</a>.</span></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1788828233512-95qpk7iv6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este módulo vamos a estar revisando un poco sobre los antecedentes de la computadora y su incidencia en el mundo moderno, incluyendo avances como la inteligencia artificial. Para llegar a ese punto, debemos pasar por una serie de conceptos y definiciones que debemos conocer o recordar.</p>\n<p><br /></p>\n<h1><strong>Informática</strong></h1>\n<p>La informática no es más que la ciencia que estudia el <strong>procesamiento</strong> <strong>automático de la información</strong> mediante el uso de computadoras y sistemas digitales.</p>\n<p>Esto nos permite entonces realizar diversos tipos de actividades, por ejemplo:</p>\n<ul>\n<li><strong>Automatizar tareas</strong>: Permite realizar trabajos repetitivos o complejos de forma rápida y sin errores humanos.</li>\n<li><strong>Gestionar datos</strong>: Facilita el almacenamiento, análisis y orden de grandes volúmenes de información.</li>\n<li><strong>Comunicación</strong>: Conecta a personas y dispositivos a través de redes locales e internet. </li>\n</ul>\n<p><br /></p>\n<p>Todas estas tareas y actividades se realizan a través de dispositivos que, comercialmente, tienen distintos nombres: tablets, teléfonos móviles, laptops, entre otros. Estos dispositivos son una forma de <strong>computadora</strong>.</p>\n<p><br /></p>\n<h1><strong>Computadora</strong></h1>\n<p><img src=\"asset://56a7a9b4-aced-f843-7462-b833b8393b16.jpg\" width=\"493\" height=\"490\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>Una definición formal de computadora podría ser \"máquina electrónica que recibe y convierte información física en digital\". Por esto, todos los dispositivos mostrados anteriormente son una forma de computadora. </p>\n<p>Actualmente, dispositivos como lavadoras, refrigeradores e incluso vehículos, cuentan con computadoras acopladas, capaces de gestionar procesos, complementar y facilitar tareas al usuario.</p>\n<p><img src=\"asset://e69b769d-ab49-1828-e306-e0c538547ecb.jpg\" width=\"569\" height=\"353\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><span style=\"font-size: 19.2px;\" title=\"\">Estos y otros términos los estaremos revisando más a profundidad en las diapositivas que se encuentran haciendo clic <a href=\"exe-node:page-mtru8s24-zzahoxhcj\">aquí</a>.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1788828233512-95qpk7iv6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este módulo vamos a estar revisando un poco sobre los antecedentes de la computadora y su incidencia en el mundo moderno, incluyendo avances como la inteligencia artificial. Para llegar a ese punto, debemos pasar por una serie de conceptos y definiciones que debemos conocer o recordar.</p>\n<p><br /></p>\n<h1><strong>Informática</strong></h1>\n<p>La informática no es más que la ciencia que estudia el <strong>procesamiento</strong> <strong>automático de la información</strong> mediante el uso de computadoras y sistemas digitales.</p>\n<p>Esto nos permite entonces realizar diversos tipos de actividades, por ejemplo:</p>\n<ul>\n<li><strong>Automatizar tareas</strong>: Permite realizar trabajos repetitivos o complejos de forma rápida y sin errores humanos.</li>\n<li><strong>Gestionar datos</strong>: Facilita el almacenamiento, análisis y orden de grandes volúmenes de información.</li>\n<li><strong>Comunicación</strong>: Conecta a personas y dispositivos a través de redes locales e internet. </li>\n</ul>\n<p><br /></p>\n<p>Todas estas tareas y actividades se realizan a través de dispositivos que, comercialmente, tienen distintos nombres: tablets, teléfonos móviles, laptops, entre otros. Estos dispositivos son una forma de <strong>computadora</strong>.</p>\n<p><br /></p>\n<h1><strong>Computadora</strong></h1>\n<p><img src=\"{{context_path}}/content/resources/MCj03825840000[1].jpg\" width=\"493\" height=\"490\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>Una definición formal de computadora podría ser \"máquina electrónica que recibe y convierte información física en digital\". Por esto, todos los dispositivos mostrados anteriormente son una forma de computadora. </p>\n<p>Actualmente, dispositivos como lavadoras, refrigeradores e incluso vehículos, cuentan con computadoras acopladas, capaces de gestionar procesos, complementar y facilitar tareas al usuario.</p>\n<p><img src=\"{{context_path}}/content/resources/images (6).jpg\" width=\"569\" height=\"353\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><span style=\"font-size: 19.2px;\" title=\"\">Estos y otros términos los estaremos revisando más a profundidad en las diapositivas que se encuentran haciendo clic <a href=\"exe-node:page-mtru8s24-zzahoxhcj\">aquí</a>.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -902,6 +902,30 @@ $exe.iDeviceToggler.init={};
       <key>titlePage</key>
       <value>Limpieza de la Computadora</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Limpieza de la Computadora</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
@@ -1043,6 +1067,18 @@ $exe.iDeviceToggler.init={};
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1789177398576-ceu0c9781","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como vimos en la presentación, existen diversas formas de manipulación de una computadora: humana, física y lógica.</p>\n<p>En esta sección, nos enfocaremos en un punto importante de la manipulación física: la limpieza periódica de la computadora.</p>\n<p></p>\n<p><img src=\"https://storage.ghost.io/c/2b/7f/2b7f69fc-a243-4d2f-ae8e-db8312c6653a/content/images/size/w1000/2025/10/Limpieza-y-mantenimiento-de-PC-en-421-b-2.png\" width=\"519\" height=\"346\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p></p>\n<p>Es recomendable hacerle mantenimiento y limpieza a la computadora cada cierto tiempo, dependiendo del uso que se le de regularmente.</p>\n<ul>\n<li>Para una computadora de uso diario, lo ideal sería hacerle un mantenimiento cada mes o mínimo cada tres meses.</li>\n<li>Para una computadora con poco uso, lo ideal podría ser cada seis meses.</li>\n<li>Para computadoras que permanecen encendidas, dependiendo de la naturaleza de su trabajo y previo aviso a quienes se atienda con ese equipo, lo ideal sería cada mes. Teniendo en cuenta que estas computadoras son de uso diario y permanecen encendidas 24/7, lo ideal es que permanezcan en lugares con un clima ideal y libre de polvo, para preservar lo más posible sus componentes.</li>\n</ul>\n<p></p>\n<h1><strong>¿Cómo limpiar una PC?</strong></h1>\n<p>Nuestras computadoras son nuestra herramienta esencial para el trabajo, la diversión y la comunicación. Mantenerla bien cuidada debe ser parte de nuestro trabajo, ya sea que tengamos conocimiento en limpieza de computadoras o podamos llevarla al servicio técnico en un tiempo prudente.</p>\n<p>El polvo es el enemigo más silencioso de una computadora, pudiendo causar estragos en los componentes internos. El polvo puede encargarse de tapar el flujo de aire de la computadora, provocando el sobrecalentamiento de esta. El sobrecalentamiento puede provocar ralentización térmica del procesador y, de ser persistente, puede causar daños permanentes en el hardware y costosos.</p>\n<p><img src=\"https://media.minutouno.com/p/cacf19caf30c315c50f42a8cdd48be6d/adjuntos/150/imagenes/040/800/0040800055/limpieza-mantenimiento-pc.jpg\" width=\"651\" height=\"366\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>Las restricciones de flujo de aire en una computadora obligan a los ventiladores a trabajar de más, provocando un aumento del ruido regular de la computadora y una reducción del rendimiento de la misma. Si sufres de lentitud en la computadora o comienza a congelarse o apagarse inesperadamente, es probable que estés ante un problema con el polvo.</p>\n<p></p>\n<p>Para mitigar este problema, como alternativa básica y rápida, utiliza aire comprimido (de lata) para eliminar el polvo de las zonas de difícil acceso. El aire comprimido permite eliminar el polvo sin tocar físicamente los componentes. Para complementar la limpieza, puedes utilizar cepillos suaves y paños de microfibra secos.</p>\n<p><img src=\"https://vicmicro.es/wp-content/uploads/2023/09/limpieza-pc-en-madrid.jpg\" width=\"480\" height=\"270\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p></p>\n<h2><strong>¿Cómo empezar?</strong></h2>\n<p>Antes de empezar, asegúrate de que la computadora está apagada y preferiblemente desconectada. Este paso es crucial para tu seguridad y la de los componentes.</p>\n<p>Muchas cajas de computadoras vienen con filtros de polvo incorporados. </p>\n<ul>\n<li>Suelen ser bastante fáciles de limpiar, basta con deslizar los filtros o, si son magnéticos, hacer palanca y limpiarlos con un paño húmedo o agua corriente. Asegúrate de secarlos completamente antes de volver a colocarlos en la computadora.</li>\n<li>Desenrosca el panel lateral de la torre con cuidado y deslízalo suavemente para dejar al descubierto los componentes internos. Si estás trabajando con una laptop, retira la/las tapa/s inferiores para dejar al descubierto el disco y las memorias, luego, con cuidado, procede a retirar todos los tornillos que bordeen la laptop, para luego hacer palanca y retirar la carcasa inferior con cuidado de no romper las pestañas que puedan existir. Sostén la lata de aire comprimido en posición vertical y sopla ráfagas cortas para eliminar el polvo del PC. Empieza desde arriba hacia abajo, prestando especial atención a los ventiladores, disipadores y rejillas de ventilación. Utiliza un cepillo suave para desprender el polvo de determinados componentes, como los ventiladores y los disipadores, y sigue con aire comprimido.</li>\n<li>Para los discos duros y las unidades SSD, basta con limpiarlos ligeramente con un paño de microfibra seco. La fuente de alimentación puede limpiarse con aire comprimido.</li>\n</ul>\n<table border=\"1\" style=\"width: 100.029%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.2992%;\"><img src=\"https://www.nct-informatica.com/wp-content/uploads/2025/06/limpieza-equipo-informatico-1536x1025.jpg\" width=\"573\" height=\"382\" alt=\"\" style=\"font-size: 19.2px; display: block; margin-left: auto; margin-right: auto;\" /></td>\n<td style=\"width: 33.2992%;\"><img src=\"https://d1q3zw97enxzq2.cloudfront.net/images/220T_RGB_WHITE_11.width-702.format-webp.webp\" width=\"387\" height=\"258\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n<td style=\"width: 33.3004%;\"><img src=\"https://elcomercio-elcomercio-prod.web.arc-cdn.net/resizer/v2/Q6PCF5MAOFDB7N4JZDTIHHZRUE.jpg?auth=7a198cd1e166385c9e5b20cee897237a0e9c898e9e70773318ac484cddf70770&amp;width=1200&amp;height=675&amp;smart=true&amp;quality=75\" width=\"1200\" height=\"675\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p>Fuentes e información ampliada:</p>\n<ol>\n<li><a href=\"https://www.corsair.com/es/es/explorer/diy-builder/how-tos/how-to-clean-your-pc-and-how-often-you-should-do-it/?srsltid=AfmBOor3Iv6G2wZqvPBBwLzvkhVp1c54IdQmsu7zwWXreHJvRY_jfjVf\" target=\"_blank\" title=\"\" rel=\"noopener\">Cómo limpiar su PC y con qué frecuencia debe hacerlo - Corsair</a></li>\n<li><a href=\"https://www.421.news/es/limpieza-mantenimiento-computadoras/\" target=\"_blank\" title=\"\" rel=\"noopener\">Guía de limpieza, orden y mantenimiento de tu PC - 421 news</a></li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
